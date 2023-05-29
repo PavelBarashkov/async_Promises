@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y988hf84tsx372uj?svg=true)](https://ci.appveyor.com/project/PavelBarashkov/async-promises)
